@@ -1,2 +1,2 @@
-# clock.github.io
-Clock with date.
+# Clock with date
+
